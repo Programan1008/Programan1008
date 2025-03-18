@@ -78,5 +78,3 @@ Mi interés por la programación comenzó gracias a **Power BI y Excel**, herram
 - **Dashboard de evaluaciones y proyecciones empresariales en Power BI** (Banco Estado).  
 
 ---
-
-Este README está diseñado para ser claro, profesional y atractivo, destacando tus habilidades, experiencia y proyectos. ¡Espero que te sea útil! 😄
