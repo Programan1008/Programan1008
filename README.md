@@ -7,7 +7,7 @@ Soy Técnico en Análisis y Programación Computacional egresado de IPCHILE, act
 ---
 
 ## 🎓 Formación Académica
-- **IPCHILE** – Técnico en Análisis y Programación Computacional (Egresado 2023)
+- **IPCHILE** – Técnico en Análisis y Programación Computacional (Egresado 2025)
 - Cursos complementarios en Análisis de Datos, Python, SQL, Git y desarrollo web.
 
 ---
