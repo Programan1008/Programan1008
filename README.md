@@ -1,80 +1,106 @@
+# 👋 ¡Hola! Soy Cristopher Jiménez Escobar — @Programan1008
 
+## 👨‍💻 Sobre mí
 
-👋 **¡Hola! Soy Cristopher, también conocido como @Programan1008.**
-
-### **Sobre mí**
-🎓 **Formación académica:**  
-Técnico en **Análisis y Programación Computacional** en **IPChile, Santiago, Chile**.  
-
-💻 **Pasión y enfoque:**  
-Soy un apasionado por el **desarrollo web**, el **análisis de datos** y la **optimización de bases de datos**. Mi experiencia abarca tecnologías como **JavaScript, Java, PHP, html ,css, MySQL, Power BI, Excel y SharePoint**.  
-
-🚀 **Habilidades técnicas:**  
-- **Lenguajes de programación:** JavaScript, Python, PHP, SQL.  
-- **Desarrollo web:** HTML5, CSS3, JavaScript, PHP.  
-- **Bases de datos:** MySQL (Avanzado), SQL Server.  
-- **Análisis de datos & BI:** Power BI, Excel Avanzado, SharePoint.  
-- **Control de versiones:** Git, GitHub.  
-- **Metodologías ágiles:** Agile, Scrum.  
-
-🎸 **Más allá del código:**  
-Además de la programación, soy **músico** y miembro activo de una banda, lo que me ha enseñado a trabajar en equipo y a ser creativo en la resolución de problemas.  
+Soy Técnico en Análisis y Programación Computacional egresado de IPCHILE, actualmente en búsqueda de mi práctica profesional para titularme. Mi enfoque principal está en la **Ciencia de Datos**, el desarrollo de soluciones de visualización y el análisis exploratorio de datos. Combino mis habilidades en programación con herramientas BI para construir soluciones orientadas a la toma de decisiones.
 
 ---
 
-### **🌱 Actualmente estoy aprendiendo...**
-- Desarrollo Full Stack con enfoque en **JavaScript**.  
-- Arquitectura Cloud y buenas prácticas para aplicaciones escalables.  
-- Herramientas avanzadas de **análisis de datos** y visualización.  
+## 🎓 Formación Académica
+- **IPCHILE** – Técnico en Análisis y Programación Computacional (Egresado 2023)
+- Cursos complementarios en Análisis de Datos, Python, SQL, Git y desarrollo web.
 
 ---
 
-### **💞️ Me gustaría colaborar en...**
-- Proyectos de **desarrollo web** (frontend y backend).  
-- Optimización y diseño de **bases de datos**.  
-- Soluciones de **inteligencia de negocios** y visualización de datos.  
+## 🧠 Habilidades Técnicas
+
+- **Lenguajes:** Python (Pandas, NumPy), JavaScript, PHP, SQL, Java
+- **Análisis de Datos & Ciencia de Datos:** Pandas, NumPy, Visualización con Matplotlib y Seaborn
+- **BI & Visualización:** Power BI, Excel Avanzado, SharePoint
+- **Bases de datos:** MySQL (Avanzado), SQL Server
+- **Desarrollo Web:** HTML5, CSS3, JavaScript, PHP
+- **Control de versiones:** Git, GitHub
+- **Metodologías Ágiles:** Scrum, Kanban
 
 ---
 
-### **📫 Cómo contactarme**
-📧 **Email:** [cristopher.program1008@gmail.com](mailto:cristopher.program1008@gmail.com)  
-🔗 **LinkedIn:** [www.linkedin.com/in/magocristo1008](https://www.linkedin.com/in/magocristo1008)  
-🌐 **Portafolio:** [https://github.com/Programan1008](https://github.com/Programan1008)  
+## 📂 Proyectos Destacados
+
+- 📊 **[telecomx_churn_1](https://github.com/Programan1008/telecomx_churn_1)**  
+  ETL, limpieza y análisis exploratorio para detectar clientes propensos a abandonar un servicio de telecomunicaciones (Challenge Telecom X - Alura Latam)
+
+- 💻 **[Challenge-Alura-Store](https://github.com/Programan1008/Challenge-Alura-Store)**  
+  E-commerce con HTML, CSS y JavaScript aplicando buenas prácticas de diseño UX/UI.
+
+- 🔢 **[Amigo_secreto](https://github.com/Programan1008/Amigo_secreto)**  
+  Lógica de programación aplicada a la selección aleatoria de participantes.
+
+- 🧮 **[7dias_Desafios](https://github.com/Programan1008/7dias_Desafios)**  
+  Serie de desafíos diarios con ejercicios de programación lógica.
 
 ---
 
-### **⚡ Un dato curioso**
-Mi interés por la programación comenzó gracias a **Power BI y Excel**, herramientas que me permitieron descubrir mi pasión por los datos y el desarrollo web. Desde entonces, no he dejado de aprender y crecer en este fascinante mundo.  
+## 📚 Certificaciones Destacadas
+
+### Ciencia de Datos & Python
+- Python para Data Science: primeros pasos – Alura
+- Python para Data Science: funciones, estructuras de datos y excepciones – Alura
+- Visualización de datos: creando gráficos con Python – Alura
+- Pandas: conociendo la biblioteca – Alura
+- Pandas E/S: trabajando con diferentes formatos de archivo – Alura
+- Pandas: transformación y manipulación de datos – Alura
+- NumPy: análisis numérico eficiente con Python – Alura
+- Introducción a la analítica de datos con Python – BiblioRedes
+- Python – Santander Open Academy
+
+### Desarrollo y Bases de Datos
+- Modelado de bases de datos: entidades, relaciones y atributos – Alura
+- Java Fundamentals – Oracle Academy
+- GIT y GitHub: Repositorio, Commit y Versiones – Alura
+- Lógica de Programación: funciones, listas y estructuras – Alura
 
 ---
 
-### **📌 Experiencia Profesional**
-#### **BECO (Banco Estado Cobranza)**  
-**Ejecutivo de Atención al Cliente & Ayudante Analista** \| Marzo 2023 - Presente  
-- Análisis de datos y generación de reportes en **Power BI** y **Excel**.  
-- Desarrollo de **dashboards interactivos** para presentaciones a la gerencia.  
-- Atención a clientes en renegociaciones y cobranzas judiciales.  
-- Manejo de herramientas como **Genesys, Émerix y SharePoint**.  
----
+## 💼 Experiencia Profesional
 
-### **📚 Educación y Certificaciones**
-- **IPCHILE - Instituto Profesional de Chile**  
-  Técnico en Análisis y Programación Computacional (Egresado 2023).  
+**BancoEstado Cobranzas (BECO)**  
+*Ejecutivo de Atención & Ayudante Analista*  
+📍 Santiago, Chile | 🗓 Marzo 2023 – Actualidad  
 
-- **Certificaciones:**  
-  - Java Fundamentals - Oracle (2024).  
-  - Lógica de Programación: Explorar Funciones y Listas - Alura Latam (2025).  
-  - Practicando Lógica de Programación: Challenge Amigo Secreto - Alura Latam (2025).  
-  - ChatGPT: Optimizando la Calidad de los Resultados - Alura Latam (2025).  
-
-- **Cursos adicionales:**  
-  - Fundamentos de Programación, Diseño web y experiencia de usuario UX/UI, Análisis de Datos (Sense).  
-  - Curso Excel Nivel Avanzado, Aprende SQL desde Cero, Analista de Datos (Udemy).  
+- Análisis y visualización de datos en Power BI y Excel.
+- Construcción de dashboards interactivos para gerencia de calidad.
+- Apoyo en la automatización de informes usando SharePoint.
+- Atención de clientes judiciales y gestión de renegociaciones.
 
 ---
 
-### **🚀 Proyectos Destacados**
-- **Aplicación web para registro de urgencias hospitalarias** (HTML, PHP, MySQL).  
-- **Dashboard de evaluaciones y proyecciones empresariales en Power BI** (Banco Estado).  
+## 💬 Actualmente aprendiendo...
+
+- Análisis avanzado de datos con Pandas, NumPy y Seaborn
+- Proyecto final en visualización de datos e ingeniería de características
+- Fundamentos de arquitectura cloud y modelos de machine learning
+
+---
+
+## 🤝 Me interesa colaborar en...
+
+- Proyectos de análisis de datos reales
+- Visualización de datos e informes ejecutivos
+- Automatización de procesos y desarrollo backend con Python
+- Equipos de ciencia de datos o desarrolladores que promuevan el aprendizaje mutuo
+
+---
+
+## 📫 Contacto
+
+📧 cristopher.program1008@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/programan1008)  
+🌐 [GitHub Portafolio](https://github.com/Programan1008)
+
+---
+
+## ⚡ Dato curioso
+
+Mi pasión por el desarrollo comenzó gracias a herramientas como **Power BI** y **Excel**. Lo que inició como un interés en visualización de informes evolucionó hacia la Ciencia de Datos, área en la que hoy me capacito constantemente para convertir datos en decisiones valiosas.
 
 ---
