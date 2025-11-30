@@ -1,106 +1,87 @@
 # 👋 ¡Hola! Soy Cristopher Jiménez Escobar — @Programan1008
 
-## 👨‍💻 Sobre mí
-
-Soy Técnico en Análisis y Programación Computacional egresado de IPCHILE, actualmente en búsqueda de mi práctica profesional para titularme. Mi enfoque principal está en la **Ciencia de Datos**, el desarrollo de soluciones de visualización y el análisis exploratorio de datos. Combino mis habilidades en programación con herramientas BI para construir soluciones orientadas a la toma de decisiones.
-
----
-
-## 🎓 Formación Académica
-- **IPCHILE** – Técnico en Análisis y Programación Computacional (Egresado 2025)
-- Cursos complementarios en Análisis de Datos, Python, SQL, Git y desarrollo web.
-
----
-
-## 🧠 Habilidades Técnicas
-
-- **Lenguajes:** Python (Pandas, NumPy), JavaScript, PHP, SQL, Java
-- **Análisis de Datos & Ciencia de Datos:** Pandas, NumPy, Visualización con Matplotlib y Seaborn
-- **BI & Visualización:** Power BI, Excel Avanzado, SharePoint
-- **Bases de datos:** MySQL (Avanzado), SQL Server
-- **Desarrollo Web:** HTML5, CSS3, JavaScript, PHP
-- **Control de versiones:** Git, GitHub
-- **Metodologías Ágiles:** Scrum, Kanban
-
----
-
-## 📂 Proyectos Destacados
-
-- 📊 **[telecomx_churn_1](https://github.com/Programan1008/telecomx_churn_1)**  
-  ETL, limpieza y análisis exploratorio para detectar clientes propensos a abandonar un servicio de telecomunicaciones (Challenge Telecom X - Alura Latam)
-
-- 💻 **[Challenge-Alura-Store](https://github.com/Programan1008/Challenge-Alura-Store)**  
-  E-commerce con HTML, CSS y JavaScript aplicando buenas prácticas de diseño UX/UI.
-
-- 🔢 **[Amigo_secreto](https://github.com/Programan1008/Amigo_secreto)**  
-  Lógica de programación aplicada a la selección aleatoria de participantes.
-
-- 🧮 **[7dias_Desafios](https://github.com/Programan1008/7dias_Desafios)**  
-  Serie de desafíos diarios con ejercicios de programación lógica.
-
----
-
-## 📚 Certificaciones Destacadas
-
-### Ciencia de Datos & Python
-- Python para Data Science: primeros pasos – Alura
-- Python para Data Science: funciones, estructuras de datos y excepciones – Alura
-- Visualización de datos: creando gráficos con Python – Alura
-- Pandas: conociendo la biblioteca – Alura
-- Pandas E/S: trabajando con diferentes formatos de archivo – Alura
-- Pandas: transformación y manipulación de datos – Alura
-- NumPy: análisis numérico eficiente con Python – Alura
-- Introducción a la analítica de datos con Python – BiblioRedes
-- Python – Santander Open Academy
-
-### Desarrollo y Bases de Datos
-- Modelado de bases de datos: entidades, relaciones y atributos – Alura
-- Java Fundamentals – Oracle Academy
-- GIT y GitHub: Repositorio, Commit y Versiones – Alura
-- Lógica de Programación: funciones, listas y estructuras – Alura
-
----
-
-## 💼 Experiencia Profesional
-
-**BancoEstado Cobranzas (BECO)**  
-*Ejecutivo de Atención & Ayudante Analista*  
-📍 Santiago, Chile | 🗓 Marzo 2023 – Actualidad  
-
-- Análisis y visualización de datos en Power BI y Excel.
-- Construcción de dashboards interactivos para gerencia de calidad.
-- Apoyo en la automatización de informes usando SharePoint.
-- Atención de clientes judiciales y gestión de renegociaciones.
-
----
-
-## 💬 Actualmente aprendiendo...
-
-- Análisis avanzado de datos con Pandas, NumPy y Seaborn
-- Proyecto final en visualización de datos e ingeniería de características
-- Fundamentos de arquitectura cloud y modelos de machine learning
-
----
-
-## 🤝 Me interesa colaborar en...
-
-- Proyectos de análisis de datos reales
-- Visualización de datos e informes ejecutivos
-- Automatización de procesos y desarrollo backend con Python
-- Equipos de ciencia de datos o desarrolladores que promuevan el aprendizaje mutuo
-
----
-
-## 📫 Contacto
-
+👨‍💻 Sobre mí
+Soy Técnico en Análisis y Programación Computacional (IPCHILE), actualmente en búsqueda de mi práctica profesional para completar mi proceso de titulación.
+Mi enfoque está en la Ciencia de Datos, el Análisis Exploratorio, la Visualización Profesional de Datos y el Desarrollo Web.
+Me especializo en transformar datos en información accionable mediante Python, SQL y Power BI, integrando automatización, visualización y buenas prácticas de ingeniería de datos. Además, cuento con experiencia desarrollando soluciones internas con SharePoint, flujos automatizados y reportes ejecutivos.
+________________________________________
+🎓 Formación Académica
+•	IPCHILE – Técnico en Análisis y Programación Computacional (Egresado 2025)
+•	Certificaciones profesionales en Python, Data Science, Visualización, SQL, Oracle y Metodologías Ágiles
+________________________________________
+🧠 Habilidades Técnicas
+🔹 Lenguajes
+Python (Pandas, NumPy, Matplotlib, Seaborn) • JavaScript • SQL • PHP • Java
+🔹 Ciencia de Datos
+ETL • Limpieza y transformación • Análisis exploratorio • Visualización avanzada • Modelos básicos de Machine Learning
+🔹 BI & Visualización
+Power BI • Excel Avanzado • SharePoint • Diseño de dashboards ejecutivos
+🔹 Bases de Datos
+MySQL (Avanzado) • SQL Server • Modelado relacional • Consultas complejas
+🔹 Desarrollo Web
+HTML5 • CSS3 • JavaScript • PHP • React (en formación)
+🔹 Herramientas
+Git/GitHub • Jupyter Notebook • VS Code
+🔹 Metodologías
+Scrum • Kanban
+________________________________________
+📂 Proyectos Destacados
+•	📊 telecomx_churn_1
+Proyecto de Data Science orientado a identificar clientes con riesgo de churn. Incluye ETL, análisis exploratorio, visualización y preparación de datos.
+•	💻 Challenge-Alura-Store
+Sitio web e-commerce creado con HTML, CSS y JavaScript, siguiendo prácticas UX/UI.
+•	🔢 Amigo_secreto
+Aplicación simple con JavaScript para selección aleatoria de participantes.
+•	🧮 7dias_Desafios
+Colección de ejercicios de programación centrados en lógica y pensamiento computacional.
+________________________________________
+📚 Certificaciones Destacadas
+🔹 Ciencia de Datos & Python
+•	Python para Data Science: primeros pasos – Alura
+•	Python para Data Science: funciones, estructuras de datos y excepciones – Alura
+•	Visualización de datos: creando gráficos con Python – Alura
+•	Pandas: conociendo la biblioteca – Alura
+•	Pandas E/S: trabajando con archivos – Alura
+•	Pandas: transformación y manipulación de datos – Alura
+•	NumPy: análisis numérico eficiente – Alura
+•	Introducción a la analítica de datos con Python – BiblioRedes
+•	Python – Santander Open Academy
+🔹 Desarrollo, Bases de Datos & Oracle
+•	Modelado de bases de datos – Alura
+•	GIT y GitHub – Alura
+•	Lógica de Programación – Alura
+•	Java Fundamentals – Oracle Academy
+•	Introducción a Cloud Computing – Oracle
+•	Fundamentos de Oracle Cloud Infrastructure (OCI)
+•	OCI Object Storage, Compute, Networking (según certificaciones realizadas)
+________________________________________
+💼 Experiencia Profesional
+BancoEstado Cobranzas (BECO)
+Ejecutivo de Atención & Ayudante Analista
+📍 Santiago, Chile | 🗓 Marzo 2023 – Actualidad
+•	Desarrollo de dashboards ejecutivos con Power BI y Excel avanzado.
+•	Creación de reportes interactivos de calidad y gestión interna.
+•	Automatización de informes mediante SharePoint y programación avanzada.
+•	Análisis de datos para soporte de decisiones y procesos internos.
+•	Atención especializada de clientes judiciales, refinanciamiento y renegociaciones.
+________________________________________
+💬 Actualmente aprendiendo...
+•	Feature engineering
+•	Visualización avanzada y reporting profesional
+•	Fundamentos de arquitectura cloud (OCI, AWS)
+•	Desarrollo backend con Python
+________________________________________
+🤝 Me interesa colaborar en...
+•	Proyectos reales de análisis de datos
+•	Desarrollo de visualizaciones y dashboards ejecutivos
+•	Automatización de procesos
+•	Proyectos colaborativos de Python o SQL
+•	Equipos que fomenten el aprendizaje continuo
+________________________________________
+📫 Contacto
 📧 cristopher.program1008@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/programan1008)  
 🌐 [GitHub Portafolio](https://github.com/Programan1008)
-
----
-
-## ⚡ Dato curioso
-
-Mi pasión por el desarrollo comenzó gracias a herramientas como **Power BI** y **Excel**. Lo que inició como un interés en visualización de informes evolucionó hacia la Ciencia de Datos, área en la que hoy me capacito constantemente para convertir datos en decisiones valiosas.
-
----
+________________________________________
+⚡ Dato curioso
+Mi camino en tecnología comenzó creando reportes en Power BI y Excel. Ese interés por visualizar información fue creciendo hasta convertirse en mi pasión por la Ciencia de Datos y la programación.
