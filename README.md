@@ -1,87 +1,155 @@
-# 👋 ¡Hola! Soy Cristopher Jiménez Escobar — @Programan1008
+Soy Técnico de Nivel Superior Analista Programador Computacional, titulado, con foco profesional en Ciencia de Datos, Análisis Exploratorio, Visualización Profesional y Desarrollo de Soluciones Basadas en Datos.
 
-👨‍💻 Sobre mí
-Soy Técnico en Análisis y Programación Computacional (IPCHILE), actualmente en búsqueda de mi práctica profesional para completar mi proceso de titulación.
-Mi enfoque está en la Ciencia de Datos, el Análisis Exploratorio, la Visualización Profesional de Datos y el Desarrollo Web.
-Me especializo en transformar datos en información accionable mediante Python, SQL y Power BI, integrando automatización, visualización y buenas prácticas de ingeniería de datos. Además, cuento con experiencia desarrollando soluciones internas con SharePoint, flujos automatizados y reportes ejecutivos.
-________________________________________
-🎓 Formación Académica
-•	IPCHILE – Técnico en Análisis y Programación Computacional (Egresado 2025)
-•	Certificaciones profesionales en Python, Data Science, Visualización, SQL, Oracle y Metodologías Ágiles
-________________________________________
-🧠 Habilidades Técnicas
-🔹 Lenguajes
-Python (Pandas, NumPy, Matplotlib, Seaborn) • JavaScript • SQL • PHP • Java
-🔹 Ciencia de Datos
-ETL • Limpieza y transformación • Análisis exploratorio • Visualización avanzada • Modelos básicos de Machine Learning
-🔹 BI & Visualización
-Power BI • Excel Avanzado • SharePoint • Diseño de dashboards ejecutivos
-🔹 Bases de Datos
-MySQL (Avanzado) • SQL Server • Modelado relacional • Consultas complejas
-🔹 Desarrollo Web
-HTML5 • CSS3 • JavaScript • PHP • React (en formación)
-🔹 Herramientas
-Git/GitHub • Jupyter Notebook • VS Code
-🔹 Metodologías
-Scrum • Kanban
-________________________________________
-📂 Proyectos Destacados
-•	📊 telecomx_churn_1
-Proyecto de Data Science orientado a identificar clientes con riesgo de churn. Incluye ETL, análisis exploratorio, visualización y preparación de datos.
-•	💻 Challenge-Alura-Store
-Sitio web e-commerce creado con HTML, CSS y JavaScript, siguiendo prácticas UX/UI.
-•	🔢 Amigo_secreto
-Aplicación simple con JavaScript para selección aleatoria de participantes.
-•	🧮 7dias_Desafios
-Colección de ejercicios de programación centrados en lógica y pensamiento computacional.
-________________________________________
-📚 Certificaciones Destacadas
-🔹 Ciencia de Datos & Python
-•	Python para Data Science: primeros pasos – Alura
-•	Python para Data Science: funciones, estructuras de datos y excepciones – Alura
-•	Visualización de datos: creando gráficos con Python – Alura
-•	Pandas: conociendo la biblioteca – Alura
-•	Pandas E/S: trabajando con archivos – Alura
-•	Pandas: transformación y manipulación de datos – Alura
-•	NumPy: análisis numérico eficiente – Alura
-•	Introducción a la analítica de datos con Python – BiblioRedes
-•	Python – Santander Open Academy
-🔹 Desarrollo, Bases de Datos & Oracle
-•	Modelado de bases de datos – Alura
-•	GIT y GitHub – Alura
-•	Lógica de Programación – Alura
-•	Java Fundamentals – Oracle Academy
-•	Introducción a Cloud Computing – Oracle
-•	Fundamentos de Oracle Cloud Infrastructure (OCI)
-•	OCI Object Storage, Compute, Networking (según certificaciones realizadas)
-________________________________________
-💼 Experiencia Profesional
-BancoEstado Cobranzas (BECO)
-Ejecutivo de Atención & Ayudante Analista
-📍 Santiago, Chile | 🗓 Marzo 2023 – Actualidad
-•	Desarrollo de dashboards ejecutivos con Power BI y Excel avanzado.
-•	Creación de reportes interactivos de calidad y gestión interna.
-•	Automatización de informes mediante SharePoint y programación avanzada.
-•	Análisis de datos para soporte de decisiones y procesos internos.
-•	Atención especializada de clientes judiciales, refinanciamiento y renegociaciones.
-________________________________________
-💬 Actualmente aprendiendo...
-•	Feature engineering
-•	Visualización avanzada y reporting profesional
-•	Fundamentos de arquitectura cloud (OCI, AWS)
-•	Desarrollo backend con Python
-________________________________________
-🤝 Me interesa colaborar en...
-•	Proyectos reales de análisis de datos
-•	Desarrollo de visualizaciones y dashboards ejecutivos
-•	Automatización de procesos
-•	Proyectos colaborativos de Python o SQL
-•	Equipos que fomenten el aprendizaje continuo
-________________________________________
-📫 Contacto
-📧 cristopher.program1008@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/programan1008)  
-🌐 [GitHub Portafolio](https://github.com/Programan1008)
-________________________________________
-⚡ Dato curioso
-Mi camino en tecnología comenzó creando reportes en Power BI y Excel. Ese interés por visualizar información fue creciendo hasta convertirse en mi pasión por la Ciencia de Datos y la programación.
+Mi perfil combina programación, análisis, visualización y automatización, con experiencia práctica transformando datos en información accionable para la toma de decisiones. Trabajo principalmente con Python, SQL y Power BI, integrando buenas prácticas de análisis, modelado de datos y documentación técnica.
+
+Cuento con experiencia real en entornos corporativos, desarrollando dashboards ejecutivos, reportes automatizados y soluciones internas, lo que me permitió entender el ciclo completo del dato: desde la extracción y limpieza, hasta la visualización y el impacto en el negocio.
+
+Actualmente busco oportunidades profesionales en Ciencia de Datos, Análisis de Datos o BI, donde pueda seguir profundizando en modelos analíticos, visualización avanzada y arquitecturas modernas de datos.
+
+🎓 Formación Académica | Education
+
+IPCHILE — Técnico en Análisis y Programación Computacional (Titulado, 2025)
+
+Professional certifications in Python, Data Science, Data Visualization, SQL, Oracle & Agile Methodologies
+
+🧠 Habilidades Técnicas | Technical Skills
+🔹 Lenguajes | Languages
+
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+SQL
+
+JavaScript
+
+PHP
+
+Java
+
+🔹 Ciencia de Datos | Data Science
+
+ETL processes
+
+Data cleaning & transformation
+
+Exploratory Data Analysis (EDA)
+
+Advanced data visualization
+
+Basic Machine Learning models
+
+Feature engineering (en progreso)
+
+🔹 BI & Visualización | BI & Visualization
+
+Power BI
+
+Advanced Excel
+
+SharePoint
+
+Executive dashboard design
+
+🔹 Bases de Datos | Databases
+
+MySQL (Advanced)
+
+SQL Server
+
+Relational modeling
+
+Complex queries & optimization
+
+🔹 Desarrollo Web | Web Development
+
+HTML5, CSS3
+
+JavaScript
+
+PHP
+
+React (learning)
+
+🔹 Herramientas | Tools
+
+Git / GitHub
+
+Jupyter Notebook
+
+Visual Studio Code
+
+🔹 Metodologías | Methodologies
+
+📚 Certificaciones Destacadas | Certifications
+🔹 Data Science & Python
+
+Python for Data Science – Alura
+
+Data Visualization with Python – Alura
+
+Pandas & NumPy – Alura
+
+Data Analytics with Python – BiblioRedes
+
+Python – Santander Open Academy
+
+🔹 Development, Databases & Oracle
+
+Database Modeling – Alura
+
+Git & GitHub – Alura
+
+Programming Logic – Alura
+
+Java Fundamentals – Oracle Academy
+
+Oracle Cloud Infrastructure Foundations (OCI)
+
+💼 Experiencia Profesional | Professional Experience
+BancoEstado – Cobranzas (BECO)
+
+Customer Service Executive & Assistant Data Analyst
+📍 Santiago, Chile | 🗓 March 2023 – Present
+
+Development of executive dashboards using Power BI and advanced Excel
+
+Creation of interactive management and quality reports
+
+Report automation using SharePoint and advanced scripting
+
+Data analysis to support internal decision-making processes
+
+Specialized customer service in judicial and financial operations
+
+📖 Actualmente aprendiendo | Currently Learning
+
+Feature engineering
+
+Advanced visualization & professional reporting
+
+Cloud architecture fundamentals (OCI, AWS)
+
+Backend development with Python
+
+🤝 Me interesa colaborar en | Open to Collaborate On
+
+Real-world data analysis projects
+
+Executive dashboards and BI solutions
+
+Process automation
+
+Python and SQL collaborative projects
+
+Teams focused on continuous learning and technical excellence
+
+📫 Contacto | Contact
+
+📧 Email: cristopher.program1008@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/programan1008
+
+🌐 GitHub Portfolio: https://github.com/Programan1008
+
+Scrum
+
+Kanban
