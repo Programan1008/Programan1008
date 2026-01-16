@@ -149,7 +149,3 @@ Teams focused on continuous learning and technical excellence
 🔗 LinkedIn: https://www.linkedin.com/in/programan1008
 
 🌐 GitHub Portfolio: https://github.com/Programan1008
-
-Scrum
-
-Kanban
