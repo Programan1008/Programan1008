@@ -1,4 +1,4 @@
-Soy Técnico de Nivel Superior Analista Programador Computacional, titulado, con foco profesional en Ciencia de Datos, Análisis Exploratorio, Visualización Profesional y Desarrollo de Soluciones Basadas en Datos.
+Soy Técnico de Nivel Superior Analista Programador Computacional, titulado, con foco profesional en Ciencia de Datos, Análisis Exploratorio, Visualización Profesional y Desarrollo de Soluciones Basadas en Datos. Formación en programación, desarrollo web, bases de datos y análisis de datos. Competencias en JavaScript, Python, SQL, desarrollo front-end, modelamiento de bases de datos y herramientas de Business Intelligence como Power BI. Desarrollo de proyectos académicos enfocados en soluciones informáticas, aplicaciones web y análisis de información.
 
 Mi perfil combina programación, análisis, visualización y automatización, con experiencia práctica transformando datos en información accionable para la toma de decisiones. Trabajo principalmente con Python, SQL y Power BI, integrando buenas prácticas de análisis, modelado de datos y documentación técnica.
 
@@ -8,7 +8,7 @@ Actualmente busco oportunidades profesionales en Ciencia de Datos, Análisis de 
 
 🎓 Formación Académica | Education
 
-IPCHILE — Técnico en Análisis y Programación Computacional (Titulado, 2025)
+IPCHILE — Técnico en Análisis y Programación Computacional (Titulado, 2025) Titulado con Distinción Máxima (6,6).
 
 Professional certifications in Python, Data Science, Data Visualization, SQL, Oracle & Agile Methodologies
 
