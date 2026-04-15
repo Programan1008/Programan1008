@@ -1,151 +1,168 @@
-Soy Técnico de Nivel Superior Analista Programador Computacional, titulado, con foco profesional en Ciencia de Datos, Análisis Exploratorio, Visualización Profesional y Desarrollo de Soluciones Basadas en Datos. Formación en programación, desarrollo web, bases de datos y análisis de datos. Competencias en JavaScript, Python, SQL, desarrollo front-end, modelamiento de bases de datos y herramientas de Business Intelligence como Power BI. Desarrollo de proyectos académicos enfocados en soluciones informáticas, aplicaciones web y análisis de información.
+# 👨‍💻 Cristopher Jiménez  
+### Data Analyst | Data Scientist (Jr) | BI Developer  
 
-Mi perfil combina programación, análisis, visualización y automatización, con experiencia práctica transformando datos en información accionable para la toma de decisiones. Trabajo principalmente con Python, SQL y Power BI, integrando buenas prácticas de análisis, modelado de datos y documentación técnica.
+---
 
-Cuento con experiencia real en entornos corporativos, desarrollando dashboards ejecutivos, reportes automatizados y soluciones internas, lo que me permitió entender el ciclo completo del dato: desde la extracción y limpieza, hasta la visualización y el impacto en el negocio.
+## 🧠 Sobre mí | About Me
 
-Actualmente busco oportunidades profesionales en Ciencia de Datos, Análisis de Datos o BI, donde pueda seguir profundizando en modelos analíticos, visualización avanzada y arquitecturas modernas de datos.
+Soy Técnico de Nivel Superior en Análisis y Programación Computacional (titulado con distinción máxima), con foco profesional en Ciencia de Datos, Análisis de Datos y Business Intelligence.
 
-🎓 Formación Académica | Education
+Mi perfil combina programación, análisis estadístico y visualización avanzada, con experiencia práctica en entornos corporativos transformando datos en información accionable para la toma de decisiones.
 
-IPCHILE — Técnico en Análisis y Programación Computacional (Titulado, 2025) Titulado con Distinción Máxima (6,6).
+Tengo experiencia en el ciclo completo del dato:
+- Extracción y transformación (ETL)
+- Análisis exploratorio (EDA)
+- Modelamiento de datos
+- Visualización ejecutiva
+- Automatización de reportes
 
-Professional certifications in Python, Data Science, Data Visualization, SQL, Oracle & Agile Methodologies
+Actualmente me encuentro enfocado en desarrollarme como Data Scientist / Data Analyst, aplicando Machine Learning y analítica avanzada a problemas reales de negocio.
 
-🧠 Habilidades Técnicas | Technical Skills
-🔹 Lenguajes | Languages
+---
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+## 🎯 Enfoque Profesional
 
-SQL
+- Ciencia de Datos aplicada a negocio  
+- Modelos predictivos (Machine Learning básico/intermedio)  
+- Visualización de datos orientada a decisiones  
+- Automatización de procesos analíticos  
+- Business Intelligence (Power BI)  
 
-JavaScript
+---
 
-PHP
+## 🛠️ Stack Tecnológico
 
-Java
+### 🔹 Lenguajes
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- SQL
+- JavaScript
+- PHP
+- Java
 
-🔹 Ciencia de Datos | Data Science
+---
 
-ETL processes
+### 🔹 Ciencia de Datos
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering (en desarrollo)  
+- Modelos de Machine Learning (Regresión Logística, clasificación)  
+- Data-driven decision making  
 
-Data cleaning & transformation
+---
 
-Exploratory Data Analysis (EDA)
+### 🔹 BI & Visualización
+- Power BI  
+- Excel Avanzado  
+- Diseño de dashboards ejecutivos  
+- Storytelling con datos  
 
-Advanced data visualization
+---
 
-Basic Machine Learning models
+### 🔹 Bases de Datos
+- MySQL (Avanzado)  
+- SQL Server  
+- Modelamiento relacional  
+- Optimización de consultas  
 
-Feature engineering (en progreso)
+---
 
-🔹 BI & Visualización | BI & Visualization
+### 🔹 Desarrollo & Herramientas
+- HTML5, CSS3  
+- Git & GitHub  
+- Jupyter Notebook  
+- Visual Studio Code  
+- SharePoint  
 
-Power BI
+---
 
-Advanced Excel
+### 🔹 Actualmente aprendiendo
+- Feature Engineering avanzado  
+- Machine Learning aplicado  
+- Arquitectura de datos (Cloud - OCI / AWS)  
+- Backend con Python  
 
-SharePoint
+---
 
-Executive dashboard design
+## 💼 Experiencia Profesional
 
-🔹 Bases de Datos | Databases
+### 🏦 BancoEstado – Cobranzas (BECO)  
+**Customer Service Executive & Assistant Data Analyst**  
+📍 Santiago, Chile | 🗓 2023 – Actualidad  
 
-MySQL (Advanced)
+- Desarrollo de dashboards ejecutivos en Power BI  
+- Automatización de reportes con Excel y SharePoint  
+- Análisis de datos para apoyar decisiones internas  
+- Generación de reportes de gestión y calidad  
+- Participación en procesos operativos financieros y judiciales  
 
-SQL Server
+📊 Impacto:
+- Mejora en la visualización de indicadores clave  
+- Apoyo en toma de decisiones estratégicas  
+- Optimización de procesos internos mediante datos  
 
-Relational modeling
+---
 
-Complex queries & optimization
+## 🎓 Formación Académica
 
-🔹 Desarrollo Web | Web Development
+**IPCHILE**  
+Técnico en Análisis y Programación Computacional  
+🎓 Titulado con Distinción Máxima (6,6) – 2025  
 
-HTML5, CSS3
+---
 
-JavaScript
+## 📚 Certificaciones
 
-PHP
+### 🔹 Data Science & Python
+- Python for Data Science – Alura  
+- Data Visualization with Python – Alura  
+- Pandas & NumPy – Alura  
+- Data Analytics with Python – BiblioRedes  
+- Python – Santander Open Academy  
 
-React (learning)
+---
 
-🔹 Herramientas | Tools
+### 🔹 Desarrollo & Bases de Datos
+- Database Modeling – Alura  
+- Git & GitHub – Alura  
+- Programming Logic – Alura  
+- Java Fundamentals – Oracle Academy  
+- Oracle Cloud Infrastructure Foundations (OCI)  
 
-Git / GitHub
+---
 
-Jupyter Notebook
+## 🚀 Proyectos Destacados
 
-Visual Studio Code
+📌 Puedes revisar mis proyectos aquí:  
+👉 https://github.com/Programan1008  
 
-🔹 Metodologías | Methodologies
+Incluyen:
+- Análisis de datos aplicado a negocio  
+- Modelos de Machine Learning  
+- Dashboards y visualizaciones  
+- Automatización de procesos  
 
-📚 Certificaciones Destacadas | Certifications
-🔹 Data Science & Python
+---
 
-Python for Data Science – Alura
+## 🤝 Intereses Profesionales
 
-Data Visualization with Python – Alura
+Estoy interesado en colaborar en:
 
-Pandas & NumPy – Alura
+- Proyectos de Ciencia de Datos  
+- Análisis de datos reales  
+- Desarrollo de dashboards ejecutivos  
+- Automatización con Python y SQL  
+- Equipos con foco en datos y mejora continua  
 
-Data Analytics with Python – BiblioRedes
+---
 
-Python – Santander Open Academy
+## 📫 Contacto
 
-🔹 Development, Databases & Oracle
+📧 Email: cristopher.program1008@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/programan1008  
+🌐 GitHub: https://github.com/Programan1008  
 
-Database Modeling – Alura
+---
 
-Git & GitHub – Alura
+## 📊 Objetivo Profesional
 
-Programming Logic – Alura
-
-Java Fundamentals – Oracle Academy
-
-Oracle Cloud Infrastructure Foundations (OCI)
-
-💼 Experiencia Profesional | Professional Experience
-BancoEstado – Cobranzas (BECO)
-
-Customer Service Executive & Assistant Data Analyst
-📍 Santiago, Chile | 🗓 March 2023 – Present
-
-Development of executive dashboards using Power BI and advanced Excel
-
-Creation of interactive management and quality reports
-
-Report automation using SharePoint and advanced scripting
-
-Data analysis to support internal decision-making processes
-
-Specialized customer service in judicial and financial operations
-
-📖 Actualmente aprendiendo | Currently Learning
-
-Feature engineering
-
-Advanced visualization & professional reporting
-
-Cloud architecture fundamentals (OCI, AWS)
-
-Backend development with Python
-
-🤝 Me interesa colaborar en | Open to Collaborate On
-
-Real-world data analysis projects
-
-Executive dashboards and BI solutions
-
-Process automation
-
-Python and SQL collaborative projects
-
-Teams focused on continuous learning and technical excellence
-
-📫 Contacto | Contact
-
-📧 Email: cristopher.program1008@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/programan1008
-
-🌐 GitHub Portfolio: https://github.com/Programan1008
+Desarrollarme como Data Scientist / Data Analyst en entornos donde pueda aplicar analítica avanzada, Machine Learning y visualización de datos para generar impacto real en el negocio.
